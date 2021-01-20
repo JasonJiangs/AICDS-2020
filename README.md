@@ -1,3 +1,4 @@
-# quant-Strategy
-mean reverting
-This is a very basic quantitative investment strategy, which is called mean-reverting. We assume the price of the stocks will always stick around the mean price of several days, which means the price will always fall back to the normal value. So there will have some profits to get.
+ An further exploration of quantitative investment strategy, mean reversion strategy. 
+ Here we tried several thretholds to backtesting the previous market conditions, and get the result which are all better than the benchmark. 
+ Then we apply the hurst index to explore the conidtion of the market that is best suitable for mean reversion strategy. 
+ The complete results have been shown in the power point. 
